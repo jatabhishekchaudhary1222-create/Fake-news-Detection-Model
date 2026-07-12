@@ -29,4 +29,6 @@ seaborn
 joblib
 jupyter
 
+### Predict on new text
+python src/predict.py
 
